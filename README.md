@@ -1,7 +1,9 @@
-# Laravel - MySQL | WEB APP | POS
-## Description
+## Name: Point Of Sale (POS)
+## Description:
 Desarrollo de aplicación web para la gestión de negocio, que va desde la administración de productos, proveedores, clientes, ventas, compras, hasta la posibilidad de emitir facturas.
-## Screens
+## Platform: Web APP
+## Technologies: Laravel - MySQL 
+## Version: 1.0.0
 ![1](./resources/1.png)
 ![2](./resources/2.png)
 ![3](./resources/3.png)
