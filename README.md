@@ -3,7 +3,7 @@
 Desarrollo de aplicación web para la gestión de negocio, que va desde la administración de productos, proveedores, clientes, ventas, compras, hasta la posibilidad de emitir facturas.
 ## Platform: Web APP
 ## Technologies: Laravel - MySQL 
-## Version: 2.5
+## Version: 1.5.0
 ![1](./resources/1.png)
 ![2](./resources/2.png)
 ![3](./resources/3.png)
