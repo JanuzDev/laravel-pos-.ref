@@ -74,6 +74,9 @@ CREATE DATABASE [DB_DATABASE];
 composer install
 ```
 ```
+php artisan migrate:refresh --seed
+```
+```
 php artisan serve
 ```
 ![1](./resources/1.png)
