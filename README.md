@@ -12,9 +12,9 @@ PHP
 Composer
 MySQL
 ```
-### Git Clone
+### Git Repository
 ```
-https://github.com/migueldev81/laravel-pos
+git clone https://github.com/migueldev81/laravel-pos
 ```
 ### Variables Enviroment (.env)
 ````
