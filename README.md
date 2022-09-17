@@ -79,6 +79,12 @@ php artisan migrate:refresh --seed
 ```
 php artisan serve
 ```
+
+### Credentials
+#### email
+admin@admin.com
+#### password
+admin@12345
 ![1](./resources/1.png)
 ![2](./resources/2.png)
 ![3](./resources/3.png)
