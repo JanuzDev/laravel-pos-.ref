@@ -22,8 +22,8 @@ class UsersTableSeeder extends Seeder
 
         $user = User::create([
             'name'=>'Miguel',
-            'email'=>'mcweb.uy@gmail.com',
-            'password'=> Hash::make('admin@123456789'),
+            'email'=>'admin@admin.com',
+            'password'=> Hash::make('admin@12345'),
         ]);
 
         $user->roles()->sync(1);
