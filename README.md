@@ -1,10 +1,35 @@
-## Name: Point of Sale (POS)
-## Description:
-Desarrollo de aplicación web para la gestión de negocio, que va desde la administración de productos, proveedores, clientes, ventas, compras, hasta la posibilidad de emitir facturas.
-## Platform: Web APP
-## Technologies: Laravel - MySQL 
-## Version: 1.5.0
-
+   <table id="vertical-1">
+        <caption></caption>
+        <tr>
+            <th>NAME</th>
+            <td>Point of Sale (POS)</td>
+        </tr>
+        <tr>
+            <th>DESCRIPTION</th>
+            <td>Desarrollo de aplicación web para la gestión de negocio, que va desde la administración de productos, proveedores, clientes, ventas, compras, hasta la posibilidad de emitir facturas.
+</td>
+        </tr>
+        <tr>
+            <th>PLATFORM</th>
+            <td>Web App</td>
+        </tr>
+        <tr>
+            <th>ARCHITECTURE</th>
+            <td>MVC</td>
+        </tr>
+        <tr>
+            <th>AUTH</th>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <th>TECHNOLOGIES</th>
+            <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/>
+</td>
+        </tr>
+        
+   </table>
+   
 ## Local Development
 ### Requerimients
 ```
@@ -81,10 +106,18 @@ php artisan serve
 ```
 
 ### Credentials
-#### email
-admin@admin.com
-#### password
-admin@12345
+   <table id="vertical-1">
+        <caption></caption>
+        <tr>
+            <th>E-Mail</th>
+            <td>admin@admin.com</td>
+        </tr>
+        <tr>
+            <th>Password</th>
+            <td>admin@12345</td>
+        </tr>
+    </table>
+    
 ![1](./resources/1.png)
 ![2](./resources/2.png)
 ![3](./resources/3.png)
