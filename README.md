@@ -11,7 +11,7 @@
         </tr>
         <tr>
             <th>PLATFORM</th>
-            <td>Web App</td>
+            <td>Web APP</td>
         </tr>
         <tr>
             <th>ARCHITECTURE</th>
