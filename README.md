@@ -27,6 +27,12 @@
 <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/>
 </td>
         </tr>
+         <tr>
+            <th>WEB</th>
+            <td><a
+                    href="http://localhost:8000">http://localhost:8000</a>
+            </td>
+        </tr>
         
    </table>
    
