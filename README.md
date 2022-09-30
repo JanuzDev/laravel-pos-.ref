@@ -24,8 +24,7 @@
         <tr>
             <th>TECHNOLOGIES</th>
             <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"/>
-</td>
+<img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
         </tr>
          <tr>
             <th>WEB</th>
@@ -40,8 +39,13 @@
 ### Requerimients
 ```
 PHP
-Composer
+https://www.apachefriends.org/es/download.html
+
 MySQL
+https://www.mysql.com/downloads/
+
+Composer
+https://getcomposer.org/download/
 ```
 ### Git Repository
 ```
