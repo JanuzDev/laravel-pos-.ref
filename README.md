@@ -38,7 +38,7 @@
 ## Local Development
 ### Requerimients
 ```
-PHP
+PHP 7.4.24
 https://www.apachefriends.org/es/download.html
 
 MySQL
