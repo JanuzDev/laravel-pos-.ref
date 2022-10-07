@@ -13,21 +13,20 @@
             <th>PLATFORM</th>
             <td>Web APP</td>
         </tr>
+         <tr>
+            <th>TECHNOLOGIES</th>
+            <td>PHP / Laravel / Blade</td>
+        </tr>
         <tr>
             <th>ARCHITECTURE</th>
             <td>MVC</td>
         </tr>
         <tr>
             <th>AUTH</th>
-            <td>Yes</td>
-        </tr>
-        <tr>
-            <th>TECHNOLOGIES</th>
-            <td><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
+            <td>Laravel ui</td>
         </tr>
          <tr>
-            <th>WEB URL</th>
+            <th>URL</th>
             <td><a
                     href="http://localhost:8000">http://localhost:8000</a>
             </td>
