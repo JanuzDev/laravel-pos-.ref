@@ -27,7 +27,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/my-sql.png"/></td>
         </tr>
          <tr>
-            <th>WEB</th>
+            <th>WEB URL</th>
             <td><a
                     href="http://localhost:8000">http://localhost:8000</a>
             </td>
