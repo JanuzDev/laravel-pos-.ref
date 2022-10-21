@@ -15,7 +15,7 @@
         </tr>
          <tr>
             <th>TECHNOLOGIES</th>
-            <td>PHP / Laravel / Blade</td>
+            <td>PHP / Laravel</td>
         </tr>
         <tr>
             <th>ARCHITECTURE</th>
