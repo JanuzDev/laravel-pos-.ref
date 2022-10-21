@@ -36,16 +36,16 @@
    
 ## Local Development
 ### Requerimients
-```
+
 PHP 7.4.24
-https://www.apachefriends.org/es/download.html
+[https://www.apachefriends.org/es/download.html](https://www.apachefriends.org/es/download.html)
 
 MySQL
-https://www.mysql.com/downloads/
+[https://www.mysql.com/downloads/](https://www.mysql.com/downloads/)
 
 Composer
-https://getcomposer.org/download/
-```
+[https://getcomposer.org/download/](https://getcomposer.org/download/)
+
 ### Git Repository
 ```
 git clone https://github.com/migueldev81/laravel-pos
@@ -99,7 +99,7 @@ PUSHER_APP_CLUSTER=mt1
 MIX_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 ````
-### SQL Console(No Remote)
+### Create Database | SQL Console
 ````
 CREATE DATABASE [DB_DATABASE];
 ````
